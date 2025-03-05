@@ -29,7 +29,7 @@ Este projeto é o backend para o sistema de consulta e armazenamento de endereç
 ### Inicializando o servidor
 
 ```bash
-node server.js
+npm start
 ```
 
 O servidor será iniciado na porta **3000**.
